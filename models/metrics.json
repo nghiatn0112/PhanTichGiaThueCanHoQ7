@@ -1,0 +1,15 @@
+{
+  "best_model": "RandomForest",
+  "best_params": {
+    "n_estimators": 1000,
+    "max_depth": 20,
+    "min_samples_leaf": 2
+  },
+  "cv_rmse_vnd": 3702813.9465935393,
+  "test_mae_vnd": 2377872.902792041,
+  "test_rmse_vnd": 3254284.8103616103,
+  "test_r2": 0.8024347163827635,
+  "target": "log_price_vnd",
+  "n_rows": 2342,
+  "kfold": 5
+}
